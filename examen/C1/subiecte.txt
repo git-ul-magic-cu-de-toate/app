@@ -1,0 +1,10 @@
+1. care paralelism nu e folosit (paralelism plat, dinamic, imbricat, distribuit)
+2. ex cu microoperatii
+3. ex cu codificare verticale etc
+4. tabel cu M, D și R și sa afli nr minim de procesoare care pot fi folosite
+5. 2 grafuri cu ac noduri aranjate altfel pe niveluri și trebuia calculat viteza de pric pentru ambele și de argumentat care e mai eficient
+6. tabelul cu R uri dar trebuia sa mai calculezi tu o coloana și cerea dacă starea inițială e stabila și dacă se poate începe secventa de execuție cu o anumita stare
+7. care pas nu e necesar în paralelism (load balancing, eliminare secv statice, etc)
+8. diferențe la fata flow intre df static și dinamic + exemplu
+9. ce e weak scaling + exemplu
+10. aveai Pri -> Si -> Uri, și întrebarea cum trebuie sa fie Pri și Uri și ce le face indivizibile?

@@ -1,0 +1,8 @@
+fac pt 2, 4, 8, 16, 24, 32 pt ucsx si xl (real)
+
+pun timpii in tabel
+
+fac comparatie intre astea si haswell
+
+gcc prim_mst_openMP.c -o openmp_prim -fopenmp
+sbatch -p ucsx --mem=32GB batch_time.sh	

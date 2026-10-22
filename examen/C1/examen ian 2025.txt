@@ -1,0 +1,11 @@
+La 1 nr de cicli pt implementare clasica, pipeline și out-of-order
+Pentru un cod de assembly
+2. ⁠pri si uri, scris codu in python + zis operatii indivizibile
+3. ⁠lungime codificare verticala + orizontala + minimala si dat exemplu in care lungimea codificarii orizontale e egala cu cea minimala
+4. ⁠grila cu “evitarea sincronizarii”
+5. ⁠problema cu microinstructiuni basic
+La 6: ce chestii nu exista pentru sisteme runtime paralele: bucle simple, bucle nested, funcții separate, funcții recursive
+7. ⁠data flow static vs dinamic + exemple utilizare dataflow
+8. ⁠problema cu Va=Vb
+9. ⁠problema cu Z
+La 10 un cod de assembly și sa faci pipeline out-of-order
